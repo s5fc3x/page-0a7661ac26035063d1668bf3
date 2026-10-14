@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ef34c27b3b32fef5672fa952",
+  "owner": "s5fc3x",
+  "repo": "page-0a7661ac26035063d1668bf3",
+  "title": "GPT代充",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0a7661ac26035063d1668bf3",
+      "a": "GPT代充",
+      "b": "",
+      "entity": "GPT代充",
+      "brand": "GPT代充",
+      "separator": "",
+      "path": "index.html",
+      "hash": "483414d8ac431c7ef6c654b003d591d4b07eac9bb20037aa14d9ba49624a3f03",
+      "content": {
+        "keyword1": "GPT代充",
+        "keyword2": "",
+        "primary_entity": "GPT代充",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT代充提供优质VPN代理和网络加速服务，月付流量包从15元起，旗舰版解锁全流媒体，官网下载客户端，享受稳定高速体验。",
+          "AI_DESCRIPTION": "GPT代充提供优质VPN代理和网络加速服务，月付流量包从15元起，旗舰版解锁全流媒体，官网下载客户端，享受稳定高速体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n            background: #f8f1e3;\n            color: #2c3e50;\n            line-height: 1.7;\n            margin: 0;\n            padding: 0;\n        }\n        @media (max-width: 768px) {\n            body {\n                font-size: 14px;\n            }\n        }\n        main {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 40px 20px;\n        }\n        h1 {\n            color: #e07a5f;\n            text-align: center;\n            font-size: 2.8em;\n            margin-bottom: 30px;\n        }\n        h2 {\n            color: #e07a5f;\n            font-size: 1.8em;\n            margin: 40px 0 20px;\n        }\n        h3 {\n            font-size: 1.4em;\n            margin: 20px 0 10px;\n        }\n        p {\n            margin-bottom: 15px;\n        }\n        .btn {\n            background: #e07a5f;\n            color: white;\n            padding: 12px 24px;\n            border-radius: 6px;\n            text-decoration: none;\n            display: inline-block;\n            margin: 20px 0 0;\n            font-size: 1em;\n            transition: background 0.3s;\n        }\n        .btn:hover {\n            background: #d96b4f;\n        }\n        section {\n            margin-bottom: 60px;\n        }\n        #steps {\n            display: flex;\n            flex-direction: column;\n            gap: 20px;\n        }\n        .step {\n            display: flex;\n            align-items: flex-start;\n            gap: 20px;\n            background: white;\n            padding: 25px;\n            border-radius: 10px;\n            box-shadow: 0 4px 12px rgba(0,0,0,0.05);\n        }\n        .step-number {\n            background: #e07a5f;\n            color: white;\n            width: 40px;\n            height: 40px;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            flex-shrink: 0;\n        }\n        .plan-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));\n            gap: 30px;\n        }\n        .plan-card {\n            background: white;\n            border: 2px solid #e07a5f;\n            border-radius: 12px;\n            padding: 30px;\n            box-shadow: 0 6px 20px rgba(224,122,95,0.1);\n        }\n        .plan-card.featured {\n            border-color: #e07a5f;\n            box-shadow: 0 0 0 3px rgba(224,122,95,0.2);\n        }\n        .plan-card h3 {\n            margin-top: 0;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .plan-features {\n            list-style: none;\n            padding: 0;\n            margin: 20px 0;\n        }\n        .plan-features li {\n            padding: 10px 0;\n            border-bottom: 1px solid #eee;\n            display: flex;\n            align-items: center;\n        }\n        .plan-features li:before {\n            content: \"✓\";\n            color: #e07a5f;\n            margin-right: 10px;\n        }\n        .faq {\n            margin-bottom: 20px;\n        }\n        .faq summary {\n            font-size: 1.2em;\n            font-weight: 500;\n            cursor: pointer;\n            padding: 15px;\n            background: #fff;\n            border-radius: 8px;\n            list-style: none;\n        }\n        .faq summary:hover {\n            background: #f8f1e3;\n        }\n        .faq p {\n            padding: 0 15px 15px;\n            margin: 0;\n            background: #fff;\n            border-radius: 0 0 8px 8px;\n        }\n        #download {\n            text-align: center;\n        }\n        footer {\n            text-align: center;\n            padding: 30px;\n            background: #e07a5f;\n            color: white;\n            margin-top: 60px;\n        }\n    </style>\n\n\n    <main>\n        <h1>GPT代充</h1>\n        <section>\n            <h2>品牌简介</h2>\n            <p>GPT代充是一款专业的网络加速与代理服务，专注于全球优质节点池，提供稳定高速的流量包支持。我们帮助用户轻松突破地域限制，畅享全球内容，适用于个人与企业多种需求。</p>\n        </section>\n        <section>\n            <h2>使用场景</h2>\n            <p>无论您是学生、职场人士还是内容创作者，GPT代充都能提供可靠的支持。常见使用场景包括：海外购物比价、流媒体平台追剧、社交媒体免翻墙、游戏加速优化、远程办公等。</p>\n        </section>\n        <section id=\"steps\">\n            <h2>使用流程</h2>\n            <div class=\"step\">\n                <div class=\"step-number\">1</div>\n                <div>\n                    <h3>访问官网</h3>\n                    <p>进入GPT代充官网，浏览套餐信息。</p>\n                </div>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-number\">2</div>\n                <div>\n                    <h3>选择套餐</h3>\n                    <p>根据需求选择基础版、旗舰版或团队版。</p>\n                </div>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-number\">3</div>\n                <div>\n                    <h3>完成支付</h3>\n                    <p>支持月付和年付，选择支付方式完成交易。</p>\n                </div>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-number\">4</div>\n                <div>\n                    <h3>下载客户端</h3>\n                    <p>获取客户端并进行安装。</p>\n                </div>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-number\">5</div>\n                <div>\n                    <h3>连接节点</h3>\n                    <p>启动客户端，连接任意可用节点即可使用。</p>\n                </div>\n            </div>\n        </section>\n        <section>\n            <h2>套餐对比</h2>\n            <div class=\"plan-grid\">\n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <p class=\"price\">¥15/月 | 按年付仅需 ¥150/年</p>\n                    <ul class=\"plan-features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                    <a href=\"#\" class=\"btn\">立即订阅</a>\n                </div>\n                <div class=\"plan-card featured\">\n                    <h3>旗舰版 <span>推荐</span></h3>\n                    <p class=\"price\">¥35/月 | 按年付仅需 ¥350/年</p>\n                    <ul class=\"plan-features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                    <a href=\"#\" class=\"btn\">立即订阅</a>\n                </div>\n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <p class=\"price\">¥85/月 | 按年付仅需 ¥850/年</p>\n                    <ul class=\"plan-features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                    <a href=\"#\" class=\"btn\">立即订阅</a>\n                </div>\n            </div>\n        </section>\n        <section>\n            <h2>官方下载</h2>\n            <p>已完成注册并支付的会员，可在个人中心下载对应操作系统客户端。立即访问官网获取最新版本。</p>\n            <div id=\"download\">\n                <a href=\"#\">立即下载客户端</a>\n            </div>\n        </section>\n        <section>\n            <h2>常见问题 FAQ</h2>\n            <div class=\"faq\">\n                <details>\n                    <summary>什么是GPT代充？</summary>\n                    <p>GPT代充是一款专业的网络加速与代理服务，专注于全球优质节点池，提供稳定高速的流量包支持，帮助用户突破地域限制，畅享全球内容。</p>\n                </details>\n            </div>\n            <div class=\"faq\">\n                <details>\n                    <summary>如何开始使用？</summary>\n                    <p>访问官网选择套餐完成支付后，下载客户端启动程序，连接任意节点即可享受加速服务。</p>\n                </details>\n            </div>\n            <div class=\"faq\">\n                <details>\n                    <summary>套餐有年付选项吗？</summary>\n                    <p>所有套餐均支持年付，年付价格为月付的对应年付金额，可节省30%费用。</p>\n                </details>\n            </div>\n            <div class=\"faq\">\n                <details>\n                    <summary>客户端如何下载？</summary>\n                    <p>注册账号并支付成功后，登录个人中心即可下载对应操作系统的客户端程序，支持Windows、Mac、Android、iOS。</p>\n                </details>\n            </div>\n            <div class=\"faq\">\n                <details>\n                    <summary>支持哪些设备和平台？</summary>\n                    <p>支持Windows、Mac、Android、iOS等主流设备，同时在线数量根据套餐而定，网络适配全球节点。</p>\n                </details>\n            </div>\n            <div class=\"faq\">\n                <details>\n                    <summary>流量包如何使用？</summary>\n                    <p>客户端启动后自动消耗流量，达到套餐额度后自动停止，流量为每月重置。</p>\n                </details>\n            </div>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 GPT代充 官网 | 友情链接: 机场订阅 | VPN加速器</p>\n    </footer>\n\n",
+          "hash": "49b8ebfda6a36cfa34798ac5f7fe3e5a30742f3693e13797ac993af024b16e6b",
+          "seo": {
+            "title": "GPT代充 官网 | 优质VPN代理加速器 | 流量包订阅与客户端下载",
+            "keywords": "GPT代充, VPN代理, 加速器, 流量包, 客户端下载, 网络加速, 梯子",
+            "description": "GPT代充提供优质VPN代理和网络加速服务，月付流量包从15元起，旗舰版解锁全流媒体，官网下载客户端，享受稳定高速体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "markquan.cn",
+    "host": "p-6432a3f02c.markquan.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "d2d9367b73a11b35b65056f87d83b92b255f7de27d4a50c892c520577615c441",
+    "sitemap.xml": "cbce82ca004b0c009fcc39f65ebf3ae1d1e3c1de125e4a86ded2643e186a0aab",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "eaf5e89ede4b8eaaf6f05b4868d9ba1d48ab00afb6b46b5513f307986cc0499d",
+    "robots.txt": "4dbc2cf7b74dd460afb1cae50dca44527373be5709796234a1a03165331f124e",
+    "7cc95cd19140ec72860d9fa616ff1423.txt": "e8bdbb21fe0d7239c6c7efd0a800896ed83ff2bc4992385b6e2473a97d8508f1"
+  },
+  "revision": "16c1978e83f3553ca64e3fb70462e81f955a321883007f37b10b3bd30a7cfae0"
+}
